@@ -20,4 +20,4 @@ To run this project locally, follow these steps:
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/jayant1554/Portfolio_website_react.git
-   cd portfolio-website
+   cd portfolio_website_react
